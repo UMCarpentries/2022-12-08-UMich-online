@@ -264,7 +264,7 @@ Edit the text to match who can attend the workshop. For instance:
 <p id="registration" align="center">
   <strong>
     <font size="36">
-    <a href="https://www.eventbrite.com/e/um-software-carpentry-workshop-october-18th-19th-tickets-180559487287" target="_blank">Click Here to Register</a>
+    <a href="https://www.eventbrite.com/e/um-carpentries-virtual-workshop-december-8-9-tickets-473374715517" target="_blank">Click Here to Register</a>
     </font>
   </strong>
 </p>
