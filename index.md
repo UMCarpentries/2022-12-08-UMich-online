@@ -305,7 +305,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">Slack channel</a> within the UMCoderspaces Workspace for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="{{ page.collaborative_notes }}">Slack channel</a> for chatting and sharing URLs and bits of code. We will use this <a href="https://pad.carpentries.org/2022-12-um-workshop">Etherpad document for collaborative notetaking</a>
 </p>
 <hr/>
 {% endif %}
